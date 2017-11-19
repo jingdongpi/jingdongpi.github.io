@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on   撸货吧 </title>
-    <link>https://jingdongpi.github.io/tags/</link>
-    <description>Recent content in Tags on   撸货吧 </description>
+    <title>Tags on 这里有优惠</title>
+    <link>https://jingdong.github.io/tags/</link>
+    <description>Recent content in Tags on 这里有优惠</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <copyright>Copyright (c) 2017, Mr. He; All rights reserved.</copyright>
     
-	<atom:link href="https://jingdongpi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jingdong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
