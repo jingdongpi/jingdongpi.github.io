@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 这里有优惠</title>
-    <link>https://jingdong.github.io/tags/</link>
+    <link>http://zeyyh.cc/tags/</link>
     <description>Recent content in Tags on 这里有优惠</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2017, Mr. He; All rights reserved.</copyright>
     
-	<atom:link href="https://jingdong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zeyyh.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
